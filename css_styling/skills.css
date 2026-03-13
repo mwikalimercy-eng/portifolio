@@ -43,14 +43,14 @@ text-decoration:none;
 color:#00ff66;
 }
 
-.menu-toggle{
+/* .menu-toggle{
 display:none;
 background:none;
 border:none;
 color:#00ff66;
 font-size:24px;
 cursor:pointer;
-}
+} */
 /* ===============================
    GLOBAL RESET
 ================================= */
@@ -103,14 +103,14 @@ body{
 }
 
 /* Hamburger */
-.menu-toggle{
+/* .menu-toggle{
     display:none;
     font-size:24px;
     color:#00ff66;
     cursor:pointer;
     background:none;
     border:none;
-}
+} */
 
 /* ===============================
    SKILLS SECTION
@@ -324,9 +324,9 @@ to{}
 
 @media(max-width:768px){
 
-.menu-toggle{
+/* .menu-toggle{
 display:block;
-}
+} */
 
 .nav-links{
 position:absolute;
